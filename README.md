@@ -1,0 +1,2 @@
+# hauto
+Home Automation projects
